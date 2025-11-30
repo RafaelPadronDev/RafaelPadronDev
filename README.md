@@ -8,7 +8,7 @@ Actualmente, me encuentro cursando en la Universidad Politécnica de Apodaca. Te
 
 -   **Lenguajes de Programación:** Python,FastApi,HTML,CSS
 -   **Conceptos:** Manejo de Funciones, Estructuras de Datos.
--   **Bases de Datos:** MySQl
+-   **Bases de Datos:** MySQL
 -   **Herramientas:** GitHub, VS Code, Git.
   
 
