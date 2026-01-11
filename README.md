@@ -6,9 +6,10 @@ Actualmente, me encuentro cursando en la Universidad Politécnica de Apodaca. Te
 
 ### 🛠️ Mis Habilidades y Tecnologías
 
--   **Lenguajes de Programación:** Python,FastApi,HTML,CSS
+-   **Backend:** Python,FastApi.
+-   **Frontend:** Javascript,HTML,CSS.
 -   **Conceptos:** Manejo de Funciones, Estructuras de Datos.
--   **Bases de Datos:** MySQL
+-   **Bases de Datos:** MySQL.
 -   **Herramientas:** GitHub, VS Code, Git.
   
 
