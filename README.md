@@ -6,7 +6,7 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Poli
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | Python (FastAPI), Manejo de Estructuras de Datos, Funciones |
+| **Backend** | Python (FastAPI), Manejo de Estructuras de Datos, Funciones, Node.js |
 | **Frontend** | JavaScript (ES6+), HTML5, CSS3 (Flexbox/Grid), Bootstrap |
 | **Bases de Datos** | MySQL |
 | **Herramientas** | Git, GitHub, VS Code, Selenium (Automatisacion), Excel |
